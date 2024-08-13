@@ -1,0 +1,21 @@
+html{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(135, 227, 15, 0.109);
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background: #000;
+}
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: tomato;
+    background:#cece;
+    height: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 10px;
+}
